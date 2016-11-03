@@ -1,0 +1,14 @@
+D:\Proiecte\PluginManager\src\PluginManager\bin\PluginsOnly\Resources\PluginManager.ico
+D:\Proiecte\PluginManager\src\PluginManager\bin\PluginsOnly\PluginManager.exe
+D:\Proiecte\PluginManager\src\PluginManager\bin\PluginsOnly\CollapsibleSplitter.dll
+D:\Proiecte\PluginManager\src\PluginManager\bin\PluginsOnly\PluginLoader.dll
+D:\Proiecte\PluginManager\src\PluginManager\bin\PluginsOnly\PluginLoader.pdb
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\PluginManager.csprojResolveAssemblyReference.cache
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\PluginManager.Resources.resources
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\Citrus.Forms.PluginManager.View.PluginManager.resources
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\Citrus.Forms.PluginManager.View.PluginStoreRefreshDialog.resources
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\PluginManager.Properties.Resources.resources
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\Citrus.Forms.PluginManager.View.PluginTabControl.resources
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\Citrus.Forms.PluginManager.View.PluginTabPage.resources
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\PluginManager.csproj.GenerateResource.Cache
+D:\Proiecte\PluginManager\src\PluginManager\obj\PluginsOnly\PluginManager.exe

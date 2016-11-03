@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plugins>
+    <PluginInfo Name="Plugin.SimpleDemo1" Description="A simple plugin for Nyeeeeezz" Type="Plugin.SimpleDemo1.UserControl1" AssemblyFile="plugins\Plugin.SimpleDemo1\Plugin.SimpleDemo1.dll" InstallPath="plugins\Plugin.SimpleDemo1" Icon="\Resources\PluginManager.ico" />
+    <PluginInfo Name="Sticky Note" Description="A sticky notes plugin sample" Type="Plugin.StickyNote.StickyNote" AssemblyFile="plugins\Plugin.StickyNote\Plugin.StickyNote.dll" InstallPath="plugins\Plugin.StickyNote" Icon="plugins\Plugin.StickyNote\StickyNote.ico" />
+  </Plugins>
+</PluginStore>

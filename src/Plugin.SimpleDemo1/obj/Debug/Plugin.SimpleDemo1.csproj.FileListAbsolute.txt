@@ -1,0 +1,7 @@
+D:\Proiecte\PluginManager\src\PluginManager\bin\plugins\Plugin.SimpleDemo1\Plugin.SimpleDemo1.dll
+D:\Proiecte\PluginManager\src\PluginManager\bin\plugins\Plugin.SimpleDemo1\Plugin.SimpleDemo1.pdb
+D:\Proiecte\PluginManager\src\Plugin.SimpleDemo1\obj\Debug\Plugin.SimpleDemo1.csproj.GenerateResource.Cache
+D:\Proiecte\PluginManager\src\Plugin.SimpleDemo1\obj\Debug\Plugin.SimpleDemo1.dll
+D:\Proiecte\PluginManager\src\Plugin.SimpleDemo1\obj\Debug\Plugin.SimpleDemo1.pdb
+D:\Proiecte\PluginManager\src\Plugin.SimpleDemo1\obj\Debug\Plugin.SimpleDemo1.UserControl1.resources
+D:\Proiecte\PluginManager\src\Plugin.SimpleDemo1\obj\Debug\Plugin.SimpleDemo1.csprojResolveAssemblyReference.cache

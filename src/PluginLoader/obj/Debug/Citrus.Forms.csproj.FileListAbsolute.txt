@@ -1,0 +1,5 @@
+D:\Proiecte\PluginManager\src\Citrus.Forms\bin\Debug\Citrus.Forms.dll
+D:\Proiecte\PluginManager\src\Citrus.Forms\bin\Debug\Citrus.Forms.pdb
+D:\Proiecte\PluginManager\src\Citrus.Forms\obj\Debug\Citrus.Forms.csprojResolveAssemblyReference.cache
+D:\Proiecte\PluginManager\src\Citrus.Forms\obj\Debug\Citrus.Forms.dll
+D:\Proiecte\PluginManager\src\Citrus.Forms\obj\Debug\Citrus.Forms.pdb

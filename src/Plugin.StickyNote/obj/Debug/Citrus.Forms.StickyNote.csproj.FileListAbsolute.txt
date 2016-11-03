@@ -1,0 +1,8 @@
+D:\Proiecte\PluginManager\src\Citrus.Forms.PluginManager\bin\Debug\plugins\StickyNote\StickyNote.ico
+D:\Proiecte\PluginManager\src\Citrus.Forms.PluginManager\bin\Debug\plugins\StickyNote\Citrus.Forms.StickyNote.dll
+D:\Proiecte\PluginManager\src\Citrus.Forms.PluginManager\bin\Debug\plugins\StickyNote\Citrus.Forms.StickyNote.pdb
+D:\Proiecte\PluginManager\src\Citrus.Forms.StickyNote\obj\Debug\Citrus.Forms.StickyNote.csprojResolveAssemblyReference.cache
+D:\Proiecte\PluginManager\src\Citrus.Forms.StickyNote\obj\Debug\Citrus.Forms.StickyNote.StickyNote.resources
+D:\Proiecte\PluginManager\src\Citrus.Forms.StickyNote\obj\Debug\Citrus.Forms.StickyNote.csproj.GenerateResource.Cache
+D:\Proiecte\PluginManager\src\Citrus.Forms.StickyNote\obj\Debug\Citrus.Forms.StickyNote.dll
+D:\Proiecte\PluginManager\src\Citrus.Forms.StickyNote\obj\Debug\Citrus.Forms.StickyNote.pdb
